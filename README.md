@@ -1,3 +1,4 @@
+Reflection
 short bio:This repository contains the source code and files for my personal informatin website.
 it contains my personal information,biography,and educational background in a structured and professionaw way.
 
@@ -16,5 +17,5 @@ JavaScript
 Git & GitHub
 
 Contact Info:
-Email: https://malayoar.github.io/malayoarmandojr/
-GitHub:
+Email: malayoarmando@gmail.com
+GitHub: (https: //malayoar.github.io/malayoarmandojr/)
