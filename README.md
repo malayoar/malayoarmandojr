@@ -16,5 +16,5 @@ JavaScript
 Git & GitHub
 
 Contact Info:
-Email: 
+Email: https://malayoar.github.io/malayoarmandojr/
 GitHub:
