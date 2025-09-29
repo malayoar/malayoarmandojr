@@ -18,5 +18,5 @@ Git & GitHub
 
 Contact Info:
 Email: malayoarmando@gmail.com
-GitHub: (https: //malayoar.github.io/malayoarmandojr/)
+GitHub: https: //malayoar.github.io/malayoarmandojr/
 https://github.com/malayoar
