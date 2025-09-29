@@ -1,2 +1,2 @@
 # malayoarmandojr
-https://github.com/malayoar/malayoarmandojr.git
+read me
